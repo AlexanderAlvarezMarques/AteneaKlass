@@ -1,4 +1,3 @@
-# AteneaKlass
 # Atenea Klass — Sistema de Gestión Académica para FP (V1)
 
 > **Versión:** 0.1.0  
