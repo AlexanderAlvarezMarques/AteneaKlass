@@ -59,7 +59,17 @@ Este proyecto forma parte de mi portafolio profesional y documenta tanto la arqu
 
 ---
 
+## 📄 Licencia
+
+Copyright (c) 2026 [Tu Nombre o Alias]. Todos los derechos reservados.
+
+Este proyecto es de carácter propietario. Queda prohibida la copia,
+modificación, distribución o reutilización total o parcial de este código
+sin autorización expresa y por escrito del autor. Consulta el archivo
+[LICENSE](LICENSE) para más detalles.
 ## 🗄️ Modelo de datos (DBML - V1)
+
+---
 
 ```dbml
 enum relationship {
