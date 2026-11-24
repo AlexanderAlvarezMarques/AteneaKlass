@@ -21,9 +21,12 @@ Este proyecto forma parte de mi portafolio profesional y documenta tanto la arqu
 
 ## 🧱 Stack tecnológico
 
-* **Backend / Framework:** Symfony (`symfony/security-bundle`, Doctrine ORM).
-* **Base de datos:** Modelo relacional documentado en DBML (`item_marks` / `term_marks` con precisión decimal y claves únicas).
-* **Interfaz:** En español (Twig / UX a definir en la fase de implementación).
+* **Lenguaje:** PHP 8.4-FPM
+* **Framework:** Symfony (Twig, Security, Forms, Validator, Monolog)
+* **ORM y migraciones:** Doctrine ORM + Doctrine Migrations
+* **Base de datos:** PostgreSQL 18
+* **Servidor web y entorno:** Nginx + Docker Compose
+* **Interfaz:** En español (Twig)
 
 ---
 
@@ -56,6 +59,11 @@ Este proyecto forma parte de mi portafolio profesional y documenta tanto la arqu
   * `src/Service/`: servicios de negocio (cálculo de calificaciones, pesos y recuperaciones).
   * `src/Exception/`: excepciones personalizadas para errores de dominio y diagnóstico claro.
   * Uso nativo de `LoggerInterface` (Monolog) de Symfony para el registro de eventos y errores.
+
+### 7. Inicialización del entorno y esqueleto base en Symfony
+* Se configuró un entorno aislado en Docker con PHP 8.4-FPM, Nginx y PostgreSQL 18, manteniendo la configuración de contenedores desacoplada del repositorio de la aplicación.
+* Se inicializó el proyecto base de Symfony con los paquetes esenciales (`twig-bundle`, `security-bundle`, `form`, `validator`, `doctrine-migrations-bundle`, `monolog-bundle`) y las herramientas de desarrollo (`maker-bundle`, `debug-bundle`, `phpunit`).
+* Se preparó la estructura base de directorios en `src/` (`Controller`, `Entity`, `Repository`, `Service`, `Exception`).
 
 ---
 
