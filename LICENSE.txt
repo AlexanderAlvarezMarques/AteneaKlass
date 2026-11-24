@@ -1,0 +1,11 @@
+Copyright (c) 2026 [Tu Nombre o Alias]. All rights reserved.
+
+This software and its associated documentation files (the "Software"),
+part of Atenea Klass, are proprietary and confidential to the author.
+
+No permission is granted to copy, modify, merge, publish, distribute,
+sublicense, or sell copies of the Software, in whole or in part, without
+the prior written consent of the copyright holder.
+
+The Software is provided "AS IS", without warranty of any kind, express
+or implied.
