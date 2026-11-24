@@ -1,4 +1,4 @@
-Copyright (c) 2026 [Tu Nombre o Alias]. All rights reserved.
+Copyright (c) 2026 Alexander Álvarez Marques. All rights reserved.
 
 This software and its associated documentation files (the "Software"),
 part of Atenea Klass, are proprietary and confidential to the author.
