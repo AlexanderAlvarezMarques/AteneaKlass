@@ -61,7 +61,7 @@ Este proyecto forma parte de mi portafolio profesional y documenta tanto la arqu
 
 ## 📄 Licencia
 
-Copyright (c) 2026 [Tu Nombre o Alias]. Todos los derechos reservados.
+Copyright (c) 2026 Alexander Álvarez Marques. Todos los derechos reservados.
 
 Este proyecto es de carácter propietario. Queda prohibida la copia,
 modificación, distribución o reutilización total o parcial de este código
